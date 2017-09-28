@@ -1,0 +1,15 @@
+"*":
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "atom-material-ui"
+      "an-old-hope-syntax"
+    ]
+  editor:
+    fontFamily: "Fira Code"
+  "exception-reporting":
+    userId: "b6f5aa27-dc94-49ad-863c-e40a92d440d0"
+  minimap:
+    plugins:
+      pigments: true
+      pigmentsDecorationsZIndex: 0
