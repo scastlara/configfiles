@@ -17,6 +17,8 @@ elif [ "$HOSTNAME" = "cooper.bio.ub.edu" ]; then
     hostcolor="\[\e[01;40m\]";
 elif [ "$HOSTNAME" = "leonard" ]; then
     hostcolor="\[\e[01;46m\]";
+elif [ "$HOSTNAME" = "labestia" ]; then
+    hostcolor="\[\e[01;45m\]";
 else 
     hostcolor="\[\e[01;33m\]";
 fi
